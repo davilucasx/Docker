@@ -24,5 +24,5 @@ docker build -t hello-docker .
 ```
 ### 4. Executar
 ```bash
-docker run hello-docker .
+docker run hello-docker
 ```
